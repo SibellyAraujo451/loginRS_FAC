@@ -1,4 +1,4 @@
-# Projeto LoginRS_FAC
+# Projeto Login com RSpec e FactoryBot
 
 ## Desenvolvido por
 **Sibelly Araújo**
